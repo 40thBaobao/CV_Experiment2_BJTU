@@ -9,7 +9,7 @@
 ├── CVfinal_version.ipynb   # 实验 notebook
 ├── CVfinal_version.py      # notebook 导出的 python 文件
 ├── README.md               # 项目说明
-└── demo_video.mp4          # 实验演示视频
+└── 测试视频_20260615_18122175.mp4          # 实验演示视频
 ```
 
 ## 数据集
@@ -69,7 +69,7 @@ CVfinal_version.ipynb
 
 完整实验结果、P@K 曲线、文字检测可视化结果和人工核验分析见实验报告。
 
-演示视频为：
+演示视频为：测试视频_20260615_18122175.mp4
 
 ```text
 demo_video.mp4
